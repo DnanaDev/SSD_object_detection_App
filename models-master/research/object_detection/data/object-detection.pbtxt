@@ -1,0 +1,28 @@
+item {
+	id: 1
+	name: 'bottle'
+}
+item {
+	id: 2
+	name: 'mobile'
+}
+item {
+	id: 3
+	name: 'pen'
+}
+item{
+	id: 4
+	name: 'ajitesh'
+}
+item{
+	id: 5
+	name: 'gun'
+}
+item{
+	id: 6
+	name: 'knives'
+}
+item{
+	id: 7
+	name: 'scissors'
+}

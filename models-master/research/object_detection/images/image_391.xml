@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ajitesh</folder>
+	<filename>image_391.jpg</filename>
+	<path>/home/ajitesh/Desktop/google_images/ajitesh/image_391.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ajitesh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>645</xmin>
+			<ymin>304</ymin>
+			<xmax>1476</xmax>
+			<ymax>968</ymax>
+		</bndbox>
+	</object>
+</annotation>

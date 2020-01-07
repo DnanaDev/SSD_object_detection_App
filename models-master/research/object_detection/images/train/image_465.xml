@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ajitesh</folder>
+	<filename>image_465.jpg</filename>
+	<path>/home/ajitesh/Desktop/google_images/ajitesh/image_465.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ajitesh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>353</ymin>
+			<xmax>1319</xmax>
+			<ymax>929</ymax>
+		</bndbox>
+	</object>
+</annotation>

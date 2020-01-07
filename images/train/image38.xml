@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image38.jpg</filename>
+	<path>/home/ajitesh/Desktop/object-detection/images/image38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>5</ymin>
+			<xmax>246</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

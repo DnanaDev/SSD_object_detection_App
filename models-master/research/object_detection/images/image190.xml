@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image190.jpg</filename>
+	<path>/home/ajitesh/Desktop/object-detection/images/image190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>805</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mobile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>53</ymin>
+			<xmax>532</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

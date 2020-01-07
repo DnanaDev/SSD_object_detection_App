@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knives</folder>
+	<filename>image_208.jpg</filename>
+	<path>/home/ajitesh/Desktop/google_images/knives/image_208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knives</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>101</ymin>
+			<xmax>238</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>guns</folder>
+	<filename>image_24.jpg</filename>
+	<path>/home/ajitesh/Desktop/google_images/guns/image_24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>3</ymin>
+			<xmax>263</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

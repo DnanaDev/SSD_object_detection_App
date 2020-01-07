@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image275.jpg</filename>
+	<path>/home/ajitesh/Desktop/object-detection/images/image275.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>273</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>12</ymin>
+			<xmax>219</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

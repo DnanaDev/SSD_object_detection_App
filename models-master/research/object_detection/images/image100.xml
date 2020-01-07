@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image100.jpg</filename>
+	<path>/home/ajitesh/Desktop/object-detection/images/image100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>312</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>8</ymin>
+			<xmax>83</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

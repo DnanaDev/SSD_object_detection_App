@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scissors</folder>
+	<filename>image_340.jpg</filename>
+	<path>/home/ajitesh/Desktop/google_images/scissors/image_340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>46</ymin>
+			<xmax>214</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>
